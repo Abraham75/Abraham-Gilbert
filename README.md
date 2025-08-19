@@ -1,6 +1,6 @@
 # Abraham-Gilbert
 #Abraham Gilbert, MSIT, CPHIMS, CSM, CFM  
-**AI Product Manager | Ontology Engineer | Conversational AI Architect | Health Data Strategist**
+**AI Product Manager | AI Engineer | AI Architect |**
 
 ---
 
